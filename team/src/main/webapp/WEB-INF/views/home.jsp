@@ -5,14 +5,6 @@
 	<title>Home</title>
 </head>
 <body>
-<h1>
-	Hello world!  
-</h1>
-
-<P>  The time on the server is ${serverTime}asdfasdf.weqfqwfqwefqwfq
-최효선 </P>
-<P>  The time on the server is ${serverTime}asdfasdf.weqfqwfqwefqwfqas
-방세혁
- </P>
+누나 멍청이
 </body>
 </html>
