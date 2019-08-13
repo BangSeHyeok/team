@@ -5,6 +5,6 @@
 	<title>Home</title>
 </head>
 <body>
-누나 멍청이 내가 멍청이면 너는 더 멍청이~
+이창희 멍텅구리 ㅎㅎㅎ
 </body>
 </html>
